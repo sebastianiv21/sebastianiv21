@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Redux, NodeJS and Python**
 
-- 🤓💻 I’m currently working on [**IT HelpDesk**](https://github.com/sebastianiv21/it-helpdesk)
+- 🤓💻 I’m currently working on [**ADA Health**](https://github.com/sebastianiv21/ada-client)
 
 - 📫 Reach me at : **luissebastianibarrav@gmail.com**
 
