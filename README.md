@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Luis Sebastian</h1>
 <h3 align="center">Software Developer | Electronic Engineering Student</h3>
 
-- 🌱 I’m currently learning **ReactJS, Redux, NodeJS and Python**
+- 🌱 I’m currently learning **NodeJS, PostgreSQL and Python (FastAPI)**
 
 - 🤓💻 I’m currently working on [**ADA Health**](https://github.com/sebastianiv21/ada-client)
 
