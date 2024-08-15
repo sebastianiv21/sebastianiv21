@@ -1,9 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Luis Sebastian</h1>
 <h3 align="center">Software Developer | Electronic Engineer</h3>
 
-- 🌱 I’m currently learning **NodeJS, PostgreSQL and Python (FastAPI)**
-
-- 🤓💻 I’m currently working on [**ADA Health**](https://github.com/sebastianiv21/ada-client)
+- 🌱 I’m currently learning **Data Engineering** and **Cloud Computing**
 
 - 📫 Reach me at : **luissebastianibarrav@gmail.com**
 
