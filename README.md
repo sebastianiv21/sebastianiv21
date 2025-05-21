@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! 👋 I'm Luis Sebastian</h1>
-<h3 align="center">Software Developer | Electronic Engineer</h3>
+<h1 align="center">Hey there! 👋 I'm Luis Ibarra</h1>
+<h3 align="center">An Engineer</h3>
 
-- 🌱 I’m currently learning **Data Engineering** and **Cloud Computing**
+- 🌱 I’m currently learning **DevOps** and **Cloud Computing**
 
 - 📫 Reach me at : **luissebastianibarrav@gmail.com**
 
