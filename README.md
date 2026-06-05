@@ -88,10 +88,6 @@ collaborate with developers without friction.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianiv21&layout=compact&hide_border=true&theme=gruvbox" alt="top langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianiv21&hide_border=true&theme=gruvbox" alt="streak" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
